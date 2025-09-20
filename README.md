@@ -12,7 +12,7 @@
 🎨 Making assets is hard… I haven’t started  
 🌱 Learning T-SQL & Kafka at work, Godot at home  
 
-🤔 Looking for help with: climbing V6s & talking to girls  
+🤔 Looking for help with: climbing V7s & talking to girls  
 
 📫 For any of the reasons above: deniz.kuru@mail.mcgill.ca
 
