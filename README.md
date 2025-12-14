@@ -19,7 +19,7 @@
 🌳 Also: I half-built a giant Adventure Time treehouse in Minecraft survival
 
 ## Some projects I've worked on
-**Game Night** - webapp for board game lending/borrowing with unsafe security features, event creation and planning. Spring Boot backend, PostgreSQL, JUnit tests, React front end.
+**Game Night** - webapp for board game lending/borrowing with unsafe security features, event creation and planning. Spring Boot backend, PostgreSQL, JUnit tests, React front end. [Promotional video here](https://www.linkedin.com/feed/update/urn:li:activity:7323168911196098562/)
 
 **CoolSupplies** - webapp, School supplies ordering system and product management system. Designed with model based programming principles. My team's project was voted as the best in class! (tied with another great team). Java, gradle, cucumber JUnit, Umple.
 
