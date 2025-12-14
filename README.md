@@ -19,9 +19,11 @@
 🌳 Also: I half-built a giant Adventure Time treehouse in Minecraft survival
 
 ## Some projects I've worked on
-**Board Game Platform** - webapp for board game lending/borrowing with unsafe security features, event creation and planning. Spring Boot backend, PostgreSQL, JUnit tests, React front end.
+**Game Night** - webapp for board game lending/borrowing with unsafe security features, event creation and planning. Spring Boot backend, PostgreSQL, JUnit tests, React front end.
 
 **CoolSupplies** - webapp, School supplies ordering system and product management system. Designed with model based programming principles. My team's project was voted as the best in class! (tied with another great team). Java, gradle, cucumber JUnit, Umple.
+
+**McGill Rocket team** - I was in their ground team developing the frontend for viewing the live rocket values.
 <!--
 **Deniz-Kuru/Deniz-Kuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
