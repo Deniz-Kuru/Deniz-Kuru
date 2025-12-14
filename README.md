@@ -12,11 +12,15 @@
 🎨 Making assets is hard… I haven’t started  
 🌱 Learning T-SQL & Kafka at work, Godot at home  
 
-🤔 Looking for help with: climbing V7s & talking to girls  
+🤔 Looking for help with: climbing V6s
 
 📫 For any of the reasons above: deniz.kuru@mail.mcgill.ca
 
 🌳 Also: I half-built a giant Adventure Time treehouse in Minecraft survival
+
+## Some projects I've worked on
+Board Game Platform - webapp for board game lending/borrowing with unsafe security features, event creation and planning. Spring Boot backend, PostgreSQL, JUnit tests, React front end.
+CoolSupplies - webapp, School supplies ordering system and product management system. Designed with model based programming principles. My team's project was voted as the best in class! (tied with another great team). Java, gradle, JUnit, Umple, Git
 <!--
 **Deniz-Kuru/Deniz-Kuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
